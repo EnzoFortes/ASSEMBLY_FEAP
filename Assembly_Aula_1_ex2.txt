@@ -1,4 +1,4 @@
-; Programa Hello World.
+; Programa Soma.
 ; Introdução ao Assembly.
 ; Author: Enzo Fortes, FEAP.
 
