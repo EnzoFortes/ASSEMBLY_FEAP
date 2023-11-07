@@ -1,7 +1,7 @@
 ;Programa hardcode ''
 ;Introdução ao Assembly
-;Author: Gabriel Joaquim, FEAP
-;Version: Gabriel Joaquim Carlos De Andrade Rodrigues, curso Engenharia da computação
+;Author: ENZO FORTES, FEAP
+;Version: Curso Engenharia da computação
 
 
 section .data
